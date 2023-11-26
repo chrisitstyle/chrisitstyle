@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Chris</h1>
-<h3 align="center">A passionate fullstack developer from Poland</h3>
+<h2 align="center">A passionate fullstack developer from Poland</h2>
 
 <p align="left"></p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/>
